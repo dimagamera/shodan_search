@@ -29,7 +29,7 @@ Django==3.0.4
 fake-useragent==0.1.11
 future==0.18.2
 Google-Search-API==1.1.14
-httplib2==0.17.3
+httplib2==0.18.0
 hurry.filesize==0.9
 hyperlink==19.0.0
 idna==2.9
