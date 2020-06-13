@@ -2,7 +2,7 @@ import shodan
 import telebot
 SHODAN_API_KEY = "PSKINdQe1GyxGgecYz2191H2JoS9qvgD"
 api = shodan.Shodan(SHODAN_API_KEY)
-bot = telebot.TeleBot("1161041702:AAH3kabwELLe_pRKuGZ51iyAAUtl8XtL9FU")
+bot = telebot.TeleBot("111")
 
 
 @bot.message_handler(commands=['start'])
