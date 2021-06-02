@@ -81,7 +81,7 @@ tailer==0.4.1
 telebot==0.0.3
 Telethon==1.11.3
 Unidecode==1.1.1
-urllib3==1.25.9
+urllib3==1.26.5
 uuid==1.30
 vcrpy==4.0.2
 viberbot==1.0.11
