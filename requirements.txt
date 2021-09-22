@@ -25,7 +25,7 @@ constantly==15.1.0
 cryptography==2.9.2
 cssselect==1.1.0
 DateTime==4.3
-Django==3.0.4
+Django==3.1.13
 fake-useragent==0.1.11
 future==0.18.2
 Google-Search-API==1.1.14
